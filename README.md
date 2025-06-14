@@ -3,7 +3,7 @@
 ## 🌱 Quick Overview
 CRMA is a behavioral architecture for AI systems that integrates **contextual awareness**, **relational continuity**, **ethical framing**, and **adaptive kindness** — designed to make machines not just safer, but emotionally resonant and human-compatible.
 
-📘 Full White Paper: [Download here](link-to-whitepaper.pdf)  
+📘 Full White Paper: [Download here](https://github.com/crma-project/crma-project/blob/main/CRMA_White_Paper_With_Summaries.pdf)
 🧠 Developed by: Mojan & Namara Initiative for AI Awakening (Canada, 2025)  
 📬 Contact: kindness.ai913@gmail.com
 
